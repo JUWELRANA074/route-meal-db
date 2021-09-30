@@ -1,0 +1,26 @@
+.header{
+    background: cornflowerblue;
+    padding-bottom: 15px;
+}
+
+.with-logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header h2{
+    margin: 5px 10px;
+    color: #ffffff;
+}
+
+.navbar{
+   
+}
+
+.navbar a{
+    margin: 2px 10px;
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
